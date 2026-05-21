@@ -100,7 +100,7 @@ typedef enum comm_state_t {
 ## 🛠️ Melhorias Futuras
 
 - Implementação completa de todos os estados de *comm_state_t*;
-- Refinar o frame criptografado, retirando alguns caracteres desncessários.
+- Refinar o frame criptografado, retirando alguns caracteres desnecessários.
 
 ## 📜 Licença 
 
